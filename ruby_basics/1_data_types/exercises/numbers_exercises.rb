@@ -11,6 +11,7 @@ def multiply(a, b)
 end
 
 def divide(a, b)
+  puts "Hello"
   return a / b
 end
 
