@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def nil_array(number)
   Array.new(number)
   # return an array containing `nil` the given number of times
