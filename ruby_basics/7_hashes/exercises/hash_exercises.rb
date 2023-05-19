@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 def create_favorite_hash(color, number)
   { color: color, number: number}
   # return a hash with the following key/value pairs:

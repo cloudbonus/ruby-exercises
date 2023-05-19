@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 def display_current_inventory(inventory_list)
   inventory_list.each {|key, value| puts "#{key}, quantity: #{value}"}
   # use #each to iterate through each item of the inventory_list (a hash)
